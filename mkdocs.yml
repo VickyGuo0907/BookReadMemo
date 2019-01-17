@@ -1,0 +1,8 @@
+site_name: My Learning Docs
+nav:
+  - Home: index.md
+  - Java(CookBook): Java CookBook Memo.md
+  - Python: Python Memo.md
+  - Elasticsearch: Elasticsearch-Thedefinitive Guide.md
+  - word: 单词.md
+theme: readthedocs
